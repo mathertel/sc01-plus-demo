@@ -1,0 +1,32 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPathWin": "C:\\Users\\Matthias\\.esp\\v5.3.1\\esp-idf",
+  "idf.toolsPathWin": "c:\\Users\\Matthias\\.esp-tools",
+  "idf.openOcdConfigs": [
+    "board/esp32s3-builtin.cfg"
+  ],
+  "idf.flashType": "UART",
+  "idf.portWin": "COM4",
+  "files.associations": {
+    "gpio.h": "c",
+    "esp_intr_alloc.h": "c",
+    "soc_caps.h": "c",
+    "esp_lcd_panel_io.h": "c",
+    "esp_lcd_panel_ops.h": "c",
+    "unity.h": "c",
+    "unity_test_runner.h": "c",
+    "esp_log.h": "c",
+    "esp_heap_caps.h": "c",
+    "gpio_types.h": "c",
+    "stdbool.h": "c",
+    "sdkconfig.h": "c",
+    "esp_err.h": "c",
+    "esp_rom_gpio.h": "c",
+    "gpio_etm.h": "c",
+    "freertos.h": "c",
+    "task.h": "c",
+    "semphr.h": "c",
+    "esp_lcd_types.h": "c",
+    "esp_lcd_st7796.h": "c"
+  }
+}
